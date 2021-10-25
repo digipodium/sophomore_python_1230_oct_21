@@ -1,0 +1,16 @@
+# Write your code here :-)
+from turtle import *
+
+t = Turtle()
+t.circle(10)
+t.penup()
+t.setpos(0,-10)
+t.pendown()
+t.circle(20)
+t.penup()
+t.setpos(0,-20)
+t.pendown()
+t.circle(30)
+t.penup()
+t.setpos(0,-30)
+t.pendown()
